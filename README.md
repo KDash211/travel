@@ -17,6 +17,6 @@ Currently main route(home) and New York route is active.
 
 :house:&nbsp; [lastnamearya.github.io](https://lastnamearya.github.io)
 
-:email:&nbsp; arya.jigyasu6815@gmail.com
+:email:&nbsp; henrywinston87@gmail.com
 
 
